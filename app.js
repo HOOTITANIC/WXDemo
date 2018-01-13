@@ -8,4 +8,5 @@ App({
   onHide: function () {
     console.log('App Hide')
   }
-})
+}
+   )
